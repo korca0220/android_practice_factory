@@ -10,3 +10,4 @@ rootProject.name = "My Application"
 include ':app'
 include ':ch6_view'
 include ':ch07_layout'
+include ':ch08_event'
